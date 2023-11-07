@@ -6,7 +6,7 @@ var midButtons = document.querySelector(".nav-middle h4");
 gsap.to(".nav", {
     backgroundColor : "#163A5F",
     duration : 1,
-    height : "13vh",
+    height : "12vh",
     scrollTrigger : {
         trigger : ".nav",
         scroller : "body",
