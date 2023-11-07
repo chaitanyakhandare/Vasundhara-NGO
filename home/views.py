@@ -19,7 +19,7 @@ def contact(request):
 
 
 def donate(request):
-    return HttpResponse("donate")
+    return render(request, 'donate.html')
     
 
 
