@@ -231,12 +231,13 @@ a {
     width: 25%;
     display: flex;
     justify-content: center;
+    align-items: flex-start;
     flex-direction: column;
 }
 
 .content-contact p{
     font-size: 1.2vw;
-    margin-top: 1vw;
+    margin-top: 0.4vw;
 }
 
     
@@ -267,12 +268,6 @@ a {
 
 /* ACTUAL PAGE CONTENT .MAIN STARTS */
 
-
-.home-page { 
-    height: 100vh;
-    width: 100%;
-    background-color: var(--bgColor);
-}
 
 
 
