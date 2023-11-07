@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* font-family: 'Josefin Sans', 'Montserrat', sans-serif; */ 
+
+:root {
+    --lightGreen: #45EBA5;
+    --darkGreen: #21ABA5;
+    --darkBlue: #192655;
+    --lightBlue: #1D566E;
+    --bgColor: #EBFFFA;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Josefin Sans', 'Montserrat', sans-serif; 
+    background-color: var(--bgColor);
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.contact-page {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(255, 159, 142);
+}
