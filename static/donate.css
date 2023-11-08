@@ -29,8 +29,8 @@ a {
 }
 
 .donate-page {
-    padding: 16vh 10vw;
-    height: 100vh;
+    padding: 16vh 6vw 16vh 2vw;
+    height: 110vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -68,8 +68,8 @@ a {
 
 .donate-right {
     margin-top: 2vw;
-    height: 80%;
-    width: 35%;
+    height: 75%;
+    width: 32%;
     display: flex;
     justify-content: center;
     align-items: flex-start;

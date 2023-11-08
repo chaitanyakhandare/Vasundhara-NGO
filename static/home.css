@@ -219,6 +219,14 @@ marquee img {
 .graph-trees span , .graph-lives span {
     font-size: 4vw;
 }
+
+#tree-impact{
+    color: green;
+}
+#life-impact{
+    color: rgb(255, 72, 39);
+}
+
 .graph-trees h3 , .graph-lives h3 {
     font-size: 2vw;
 }
